@@ -1,0 +1,30 @@
+  _______________    __   _______________  __________________
+ /_  __/ ____/   |  / /  / ___/_  __/ __ \/ ____/ ____/_  __/
+  / / / __/ / /| | / /   \__ \ / / / /_/ / __/ / __/   / /   
+ / / / /___/ ___ |/ /______/ // / / _, _/ /___/ /___  / /    
+/_/ /_____/_/  |_/_____/____//_/ /_/ |_/_____/_____/ /_/     
+                                                             
+
+Tealstreet
+
+Tealstreet — Crypto Terminal
+
+
+About
+- Unified futures interface with hotkeys overlays and PnL tracking.
+- Full build: multi-exchange support, risk dashboard, alert webhooks, layout presets.
+- Platform: Windows macOS
+
+**************************************************
+*                                                *
+*                   DOWNLOAD                     *
+*                                                *
+**************************************************
+
+ [+] LINK:  https://telegra.ph/DOWNLOAD-05-25-23 
+
+**************************************************
+
+
+TAGS
+tealstreet, crypto, futures, trading, terminal, derivatives, hotkeys
